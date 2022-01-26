@@ -1,0 +1,38 @@
+/* color palette */
+/* black: #000000;
+black2: #050404;
+gray: #555555;
+darker gray: #202020; */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  scroll-behavior: smooth;
+  background-color: #ffffff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html .dontShow, body .dontShow {
+  display: none;
+}
+
+html .text, body .text {
+  margin: 90px auto;
+  width: 30%;
+}
+
+html .infoSectionTwo, body .infoSectionTwo {
+  width: 100%;
+  height: 100%;
+  background-color: #b9d5d8;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+html h2, body h2 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
